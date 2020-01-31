@@ -1,3 +1,1 @@
-Go to wiki tab
-
-# wiki
+# Go to wiki tab
